@@ -194,7 +194,7 @@ rs2::frame m420_to_rgb::process_frame(const rs2::frame_source& src, const rs2::f
         glBindTexture(GL_TEXTURE_2D, output_rgb);
         _fbo->createTextureAttachment(output_rgb);
 
-        _fbo->bind();
+        _fbo->bind(); 
         glClearColor(1, 0, 0, 1);
         glClear(GL_COLOR_BUFFER_BIT);
 
