@@ -1,9 +1,9 @@
-Flask App Builder 
+Flask App Builder
 =================
 
 .. image:: https://github.com/dpgaspar/Flask-AppBuilder/workflows/Python/badge.svg
         :target: https://github.com/dpgaspar/Flask-AppBuilder/actions
-
+ 
 .. image:: https://img.shields.io/pypi/v/Flask-AppBuilder.svg
         :alt: PyPI
         :target: https://pypi.org/project/Flask-AppBuilder/
