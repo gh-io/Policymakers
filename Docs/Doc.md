@@ -1,7 +1,3 @@
-
-
-
-
 Double check computer meets the minimum [system requirements](/docs/system-requirements).
 
 <Callout type="info" title="Info">
