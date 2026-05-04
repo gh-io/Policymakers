@@ -87,7 +87,7 @@ partition([L|Ls], Pivot, Smallers0, Biggers0) :-
    The above version of quicksort is not very elegant. A much more
    elegant way to describe lists in Prolog is to use a built-in
    formalism called Definite Clause Grammars (DCGs).
-
+ 
    A short DCG primer explaining the core ideas is available at:
 
                  https://www.metalevel.at/prolog/dcg
