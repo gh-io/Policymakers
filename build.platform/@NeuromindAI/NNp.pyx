@@ -1,4 +1,4 @@
-# neomind_np_practice.py
+ # neomind_np_practice.py
 
 import random
 from itertools import permutations, combinations, product
