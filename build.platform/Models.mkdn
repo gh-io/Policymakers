@@ -1,6 +1,6 @@
 
 
-You can use compatible models you've downloaded outside of LM Studio by placing them in the expected directory structure.
+You can use compatible models you've downloaded outside of LM Studio by placingthem in the expected directory structure.
 
 <hr>
 
